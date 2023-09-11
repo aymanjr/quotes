@@ -4,6 +4,10 @@ const quotes = [
       author: "UNKNOWN"
     },
     {
+     text : "wa la9la9lawi"
+     author: "SMAYMAY"
+    },
+    {
         text: "If you see the lion's canines		Do not think that the lion is smiling.",
         author: "المتنبّي"
     },
